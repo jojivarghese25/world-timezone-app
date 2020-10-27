@@ -38,7 +38,7 @@
 				<workers>1</workers>
 				<workerType>Micro</workerType>
 				<password>Canadavisa25@</password>
-				<muleversion>4.3.0</muleversion>
+				<muleVersion>4.3.0</muleVersion>
 				</cloudHubDeployment>
 				</configuration>
 			</plugin>
