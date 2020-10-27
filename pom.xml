@@ -35,7 +35,7 @@
 				<username>joji4</username>
 				<environment>Sandbox</environment>
 				<applicationName>worldtimezone-service</applicationName>
-				<worker>1</worker>
+				<workers>1</workers>
 				<workerType>Micro</workerType>
 				<password>Canadavisa25@</password>
 				<muleversion>4.3.0</muleversion>
